@@ -1,0 +1,10 @@
+- Was it easy to complete the task using AI?
+- * I've been using ChatGPT for over 10 months and learning with the help of ChatGPT makes you 3 times more productive.
+- How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics)
+- * To be honest it took over 4-5 hours to create this little project.
+- Was the code ready to run after generation? What did you have to change to make it usable?
+- * After the code was ready, it didn't work, because I had some mistakes implementing database connectivity libraries. Found errors with the help of ChatGPT and also googled.
+- Which challenges did you face during completion of the task?
+- * Library implementation, also MySQL database connection was a little problematic to implement.
+- Which specific prompts you learned as a good practice to complete the task?
+- * That when you use more specific question for ChatGPT it's help is more useful and concrete.
